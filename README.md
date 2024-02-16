@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<h2>Discord: themoon_.</h2>
+<h2>themoon_.</h2>
 </div>
 
 <div align="center">
-<h2>State:</h2>
+<h2>State</h2>
 
 ![The Moon](https://github-readme-stats.vercel.app/api?username=TheMoonSir&show_icons=true&theme=dark#gh-dark-mode-only)
 </div>
