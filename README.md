@@ -1,7 +1,6 @@
 
 <div alight="center">
-<h2>If you want to talk with me, then add me.</h2>
-<h2>themoon_.</h2>
+<h2>Discord: themoon_.</h2>
 </div>
 
 <div align="center">
