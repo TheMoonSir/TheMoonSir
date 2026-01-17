@@ -12,9 +12,9 @@
 
 ## Who Am I
 
-I am a cyber studies student focused on building modern and secure web applications.  
-I develop websites using **Next.js only** and I work confidently with data managers, APIs, and structured databases.  
-My goal is to combine performance, security, and clean architecture into real production projects.
+I am a cyber studies student building FULL-STACK website sometimes not :(  
+I develop websites using **Next.js only**! and know to manage your database without falling with APIs.
+My goal is to combine performance, security, and clean architecture into real production projects :D
 
 ## Languages
 
