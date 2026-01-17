@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>🌐 themoontrader State</h1>
-<p><b>Cyber Studies • Next.js Developer • Data Management</b></p>
+<h1>TheMoon State <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" /></h1>
+<p><b>Cyber Studies • Website Developer • Data Management</b></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheMoonSir&show_icons=true&theme=tokyonight" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 </div>
 
