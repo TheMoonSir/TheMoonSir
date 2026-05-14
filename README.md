@@ -1,9 +1,7 @@
 <div align="center">
-<h1>TheMoon State</h1>
-<p><b>Cyber studies | Full-Stack Developer | Python developer</b></p>
+<h1>TheMoon</h1>
+<p><b>CyberSecurity</b></p>
 <p>
-16 years old
-<br/>
 Proud to be jewish
 </p>
 </div>
