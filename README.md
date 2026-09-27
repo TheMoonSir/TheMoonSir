@@ -1,4 +1,4 @@
 <div align="center">
-<h1>MoonLightLabs / TheMoon</h1>
-<p><b>Cybersecurity | Bug bounty / researcher</b></p>
+<h1>MoonLightLabs</h1>
+<p><b>Penetration Tester & Researcher</b></p>
 </div>
